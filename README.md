@@ -23,7 +23,7 @@
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Harnessing+(SiliconFlower);Kernel+%26+Windows+Low-Latency+Optimization;Real-time+Hardware+Monitoring+(CPU+%2F+GPU);Rust%2C+C%23+%26+Systems+Programming;Open+Source+Tools+%26+OS+Tweaks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Harnessing+(SiliconFlower);Standalone+Markdown+TUI+Reader+(MarkiiDown);Kernel+%26+Windows+Low-Latency+Optimization;Real-time+Hardware+Monitoring+(CPU+%2F+GPU);Rust%2C+C%23+%26+Systems+Programming;Open+Source+Tools+%26+OS+Tweaks" alt="Typing SVG" />
   </p>
 
 </div>
@@ -37,6 +37,7 @@ Sou desenvolvedor focado em **Inteligência Artificial Agêntica**, **Engenharia
 Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde harnesses para orquestração de modelos de linguagem de última geração até otimizações profundas no kernel do Windows e distribuições Linux.
 
 - 🌸 **IA & Protocolo MCP**: Criador do **SiliconFlower**, agente CLI/TUI autônomo com controle de raciocínio, multi-provedores (Gemini, Claude, MiMo) e ecossistema extensível de tools via MCP.
+- 📑 **Ferramentas CLI & TUI**: Criador do **MarkiiDown**, leitor de Markdown interativo, 100% standalone e offline com TUI pager e integração nativa ao Windows.
 - ⚡ **Performance & Latency**: Desenvolvimento de utilitários e scripts avançados para debloat, redução de latência DPC e desativação cirúrgica de mitigações de CPU.
 - 📊 **Monitoramento de Hardware**: Criação de painéis nativos e plugins leves em C#, C, JavaScript e Shell para Windows, GNOME, XFCE4 e LXDE.
 - 🦀 **Low-Level & Minimalismo**: Desenvolvimento de utilitários de alta velocidade e consumo mínimo de memória em Rust e C.
@@ -64,6 +65,24 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>📑 <a href="https://github.com/siliconfps/markiidown">MarkiiDown</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TUI-Terminal_Pager-00ff41?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Platform-Windows_%7C_Linux-0078D6?style=flat-square"/>
+      </p>
+      <p>
+        <strong>Leitor de Markdown (.md) 100% Standalone e offline</strong> em TypeScript com Bun. TUI interativo no terminal (pager com busca, rolagem e sumário TOC), modo print, watch mode, exportação HTML e integração nativa ao Windows Explorer sem privilégios de administrador.
+      </p>
+      <p>
+        🌐 <strong><a href="https://github.com/siliconfps/markiidown">Ver Repositório / Docs</a></strong>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/siliconfps/otimizador-windows">Otimizador Windows</a></h3>
       <p>
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
@@ -74,9 +93,6 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
         Script avançado de otimização para Windows 10 e 11. Remove bloatware, desativa telemetria invasiva, gerencia mitigações de CPU e ajusta parâmetros do sistema para máxima taxa de quadros e menor latência.
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/siliconfps/gpu-cpu-monitor-windows">GPU / CPU Monitor Windows</a></h3>
       <p>
@@ -88,6 +104,9 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
         Painel leve de monitoramento de recursos em tempo real para Windows. Exibe métricas detalhadas de uso de CPU, GPU, clocks, temperaturas e memória com consumo insignificante de recursos.
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🦀 <a href="https://github.com/siliconfps/editor-seco-seco">Editor Seco-Seco</a></h3>
       <p>
@@ -99,9 +118,6 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
         Editor de texto minimalista ("sequinho"), ultrarrápido e sem distrações escrito em Rust para terminal (CLI). Focado em simplicidade, inicialização instantânea e baixo uso de memória.
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/siliconfps/check-cpu-mitigations">Check CPU Mitigations</a></h3>
       <p>
@@ -112,6 +128,9 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
         Utilitário para análise e detecção de vulnerabilidades e mitigações ativas de processador no Windows (Spectre, Meltdown, MDS, etc.).
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>📀 <a href="https://github.com/siliconfps/WoeUSB-remast">WoeUSB Remastered</a></h3>
       <p>
@@ -123,10 +142,21 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
         Manutenção e atualizações ativas da ferramenta para criação de pendrives inicializáveis do Windows no Linux a partir de imagens ISO ou DVDs.
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🧹 <a href="https://github.com/siliconfps/LittleRegistryCleaner">Little Registry Cleaner</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Utility-Registry_Clean-blueviolet?style=flat-square"/>
+      </p>
+      <p>
+        Programa open-source desenvolvido em C# focado em limpeza, análise e otimização profunda do Registro do Microsoft Windows.
+      </p>
+    </td>
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🐧 <a href="https://github.com/siliconfps?tab=repositories">Linux Monitoring & Tweaks Suite</a></h3>
       <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
@@ -137,21 +167,10 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
         Extensões e utilitários nativos de monitoramento e performance para ambientes Linux:
         <br/>
         • <strong><a href="https://github.com/siliconfps/gnome-cpu-monitor">GNOME CPU</a></strong> & <strong><a href="https://github.com/siliconfps/gnome-gpu-monitor">GPU Monitor</a></strong>
-        <br/>
+        &nbsp;|&nbsp;
         • <strong><a href="https://github.com/siliconfps/xfce4-cpu-plugin">XFCE4 CPU</a></strong> & <strong><a href="https://github.com/siliconfps/xfce4-gpu-plugin">GPU Plugins</a></strong>
         <br/>
         • <strong><a href="https://github.com/siliconfps/lxpanel-cpu-gpu-monitor">LXPanel Resource Monitor</a></strong> | <strong><a href="https://github.com/siliconfps/ubuntu-cpufreq-perf">cpufreq-perf</a></strong> | <strong><a href="https://github.com/siliconfps/overclock-amd">AMD Overclock</a></strong> | <strong><a href="https://github.com/siliconfps/hardview">Hardview</a></strong>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧹 <a href="https://github.com/siliconfps/LittleRegistryCleaner">Little Registry Cleaner</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Utility-Registry_Clean-blueviolet?style=flat-square"/>
-      </p>
-      <p>
-        Programa open-source desenvolvido em C# focado em limpeza, análise e otimização profunda do Registro do Microsoft Windows.
       </p>
     </td>
   </tr>
