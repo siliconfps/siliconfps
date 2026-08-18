@@ -15,7 +15,7 @@
     <a href="https://siliconfps.github.io/"><img src="https://img.shields.io/badge/🌐_Website-siliconfps.github.io-00ff41?style=for-the-badge&logoColor=000&labelColor=0d1117" alt="Website" /></a>
     <a href="https://youtube.com/@siliconfps"><img src="https://img.shields.io/badge/📺_YouTube-@siliconfps-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
     <a href="https://github.com/siliconfps"><img src="https://img.shields.io/badge/📍_Localização-Brasil_🇧🇷-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Location" /></a>
-    <a href="https://github.com/siliconfps?tab=repositories"><img src="https://img.shields.io/badge/📦_Repositórios-16+-ffb800?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories" /></a>
+    <a href="https://github.com/siliconfps?tab=repositories"><img src="https://img.shields.io/badge/📦_Repositórios-18+-ffb800?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories" /></a>
   </p>
 
   <p>
@@ -23,7 +23,7 @@
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Autonomous+AI+Agent+Harnessing+(SiliconFlower);Kernel+%26+Windows+Low-Latency+Optimization;Real-time+Hardware+Monitoring+(CPU+%2F+GPU);Rust+%26+Systems+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Harnessing+(SiliconFlower);Kernel+%26+Windows+Low-Latency+Optimization;Real-time+Hardware+Monitoring+(CPU+%2F+GPU);Rust%2C+C%23+%26+Systems+Programming;Open+Source+Tools+%26+OS+Tweaks" alt="Typing SVG" />
   </p>
 
 </div>
@@ -36,10 +36,11 @@ Sou desenvolvedor focado em **Inteligência Artificial Agêntica**, **Engenharia
 
 Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde harnesses para orquestração de modelos de linguagem de última geração até otimizações profundas no kernel do Windows e distribuições Linux.
 
-- 🤖 **IA & Protocolo MCP**: Criador do **SiliconFlower**, agente CLI/TUI autônomo com controle de raciocínio, multi-provedores (Gemini, Claude, MiMo) e ecossistema de tools.
-- ⚡ **Performance & Latency**: Desenvolvimento de scripts e utilitários para debloat, redução de latência DPC e desativação cirúrgica de mitigações de CPU.
-- 📊 **Monitoramento de Hardware**: Criação de painéis e plugins nativos em C, C# e Shell para Windows, GNOME, XFCE4 e LXDE.
-- 🦀 **Low-Level & Minimalismo**: Criação de utilitários rápidos com pegada de memória mínima em Rust e C.
+- 🌸 **IA & Protocolo MCP**: Criador do **SiliconFlower**, agente CLI/TUI autônomo com controle de raciocínio, multi-provedores (Gemini, Claude, MiMo) e ecossistema extensível de tools via MCP.
+- ⚡ **Performance & Latency**: Desenvolvimento de utilitários e scripts avançados para debloat, redução de latência DPC e desativação cirúrgica de mitigações de CPU.
+- 📊 **Monitoramento de Hardware**: Criação de painéis nativos e plugins leves em C#, C, JavaScript e Shell para Windows, GNOME, XFCE4 e LXDE.
+- 🦀 **Low-Level & Minimalismo**: Desenvolvimento de utilitários de alta velocidade e consumo mínimo de memória em Rust e C.
+- 🧰 **Manutenção Open Source**: Modernização e suporte a ferramentas essenciais para a comunidade (WoeUSB-remast, LittleRegistryCleaner).
 
 ---
 
@@ -95,7 +96,7 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
         <img src="https://img.shields.io/badge/Type-Ultra--Light-orange?style=flat-square"/>
       </p>
       <p>
-        Editor de texto minimalista ("sequinho"), ultrarrápido e sem distrações escrito em Rust. Focado em simplicidade, inicialização instantânea e baixo uso de memória.
+        Editor de texto minimalista ("sequinho"), ultrarrápido e sem distrações escrito em Rust para terminal (CLI). Focado em simplicidade, inicialização instantânea e baixo uso de memória.
       </p>
     </td>
   </tr>
@@ -112,6 +113,20 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>📀 <a href="https://github.com/siliconfps/WoeUSB-remast">WoeUSB Remastered</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tool-Bootable_USB-00e5ff?style=flat-square"/>
+      </p>
+      <p>
+        Manutenção e atualizações ativas da ferramenta para criação de pendrives inicializáveis do Windows no Linux a partir de imagens ISO ou DVDs.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3>🐧 <a href="https://github.com/siliconfps?tab=repositories">Linux Monitoring & Tweaks Suite</a></h3>
       <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
@@ -119,13 +134,24 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
       </p>
       <p>
-        Extensões e plugins nativos de monitoramento e performance para ambientes Linux:
+        Extensões e utilitários nativos de monitoramento e performance para ambientes Linux:
         <br/>
         • <strong><a href="https://github.com/siliconfps/gnome-cpu-monitor">GNOME CPU</a></strong> & <strong><a href="https://github.com/siliconfps/gnome-gpu-monitor">GPU Monitor</a></strong>
         <br/>
         • <strong><a href="https://github.com/siliconfps/xfce4-cpu-plugin">XFCE4 CPU</a></strong> & <strong><a href="https://github.com/siliconfps/xfce4-gpu-plugin">GPU Plugins</a></strong>
         <br/>
-        • <strong><a href="https://github.com/siliconfps/lxpanel-cpu-gpu-monitor">LXPanel Resource Monitor</a></strong> | <strong><a href="https://github.com/siliconfps/ubuntu-cpufreq-perf">cpufreq-perf</a></strong> | <strong><a href="https://github.com/siliconfps/overclock-amd">AMD Overclock</a></strong>
+        • <strong><a href="https://github.com/siliconfps/lxpanel-cpu-gpu-monitor">LXPanel Resource Monitor</a></strong> | <strong><a href="https://github.com/siliconfps/ubuntu-cpufreq-perf">cpufreq-perf</a></strong> | <strong><a href="https://github.com/siliconfps/overclock-amd">AMD Overclock</a></strong> | <strong><a href="https://github.com/siliconfps/hardview">Hardview</a></strong>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧹 <a href="https://github.com/siliconfps/LittleRegistryCleaner">Little Registry Cleaner</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Utility-Registry_Clean-blueviolet?style=flat-square"/>
+      </p>
+      <p>
+        Programa open-source desenvolvido em C# focado em limpeza, análise e otimização profunda do Registro do Microsoft Windows.
       </p>
     </td>
   </tr>
@@ -147,11 +173,11 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
 
 ### 💻 Linguagens de Programação
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -166,6 +192,7 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
   <img src="https://img.shields.io/badge/XFCE-005B9E?style=for-the-badge&logo=xfce&logoColor=white" alt="XFCE" />
+  <img src="https://img.shields.io/badge/LXDE-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="LXDE" />
 </p>
 
 ### ⚙️ Runtimes, Ferramentas & Ecossistema
@@ -216,10 +243,14 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
   <a href="https://github.com/siliconfps">
     <img src="https://img.shields.io/badge/GitHub-siliconfps-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:redesassessoria@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>⚡ Projetado e desenvolvido com foco em alta eficiência por <a href="https://github.com/siliconfps">SILICONFPS</a>.</sub>
+  <sub>⚡ Projetado e desenvolvido com foco em alta performance e eficiência por <a href="https://github.com/siliconfps">SILICONFPS</a>.</sub>
 </div>
