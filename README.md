@@ -1,176 +1,91 @@
 <div align="center">
 
-  <!-- Header Banner / Avatar -->
-  <a href="https://siliconfps.github.io/">
-    <img src="https://siliconfps.github.io/avatarupscaled.webp" alt="SILICONFPS" width="130" style="border-radius: 50%; border: 3px solid #00ff41;" onerror="this.src='https://avatars.githubusercontent.com/u/284324631?v=4'"/>
+  <a href="https://siliconfps.github.io/" title="Visitar o portal SILICONFPS">
+    <img src="https://siliconfps.github.io/avatarupscaled-v2.png" alt="Avatar SILICONFPS" width="168" />
   </a>
 
-  # ⚡ SILICONFPS
+  <h1>SILICONFPS</h1>
 
   <p>
-    <strong>Engenharia de Sistemas, Agentes Autônomos de IA & Otimização de Baixa Latência</strong>
+    <strong>IA agêntica · software de sistemas · ferramentas de terminal · baixa latência</strong>
   </p>
 
   <p>
-    <a href="https://siliconfps.github.io/"><img src="https://img.shields.io/badge/🌐_Website-siliconfps.github.io-00ff41?style=for-the-badge&logoColor=000&labelColor=0d1117" alt="Website" /></a>
-    <a href="https://youtube.com/@siliconfps"><img src="https://img.shields.io/badge/📺_YouTube-@siliconfps-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
-    <a href="https://github.com/siliconfps"><img src="https://img.shields.io/badge/📍_Localização-Brasil_🇧🇷-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Location" /></a>
-    <a href="https://github.com/siliconfps?tab=repositories"><img src="https://img.shields.io/badge/📦_Repositórios-18+-ffb800?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories" /></a>
+    Software open source para quem prefere <strong>velocidade, controle e eficiência</strong>.
   </p>
 
   <p>
-    <em>"Desenvolvendo software de alta performance, agentes inteligentes e ferramentas de latência zero para Windows e Linux."</em>
+    <a href="https://siliconfps.github.io/"><img src="https://img.shields.io/badge/PORTAL-00ff88?style=for-the-badge&logo=googlechrome&logoColor=07110d" alt="Portal oficial" /></a>
+    <a href="https://github.com/siliconfps?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" /></a>
+    <a href="https://youtube.com/@siliconfps"><img src="https://img.shields.io/badge/YOUTUBE-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agent+Harnessing+(SiliconFlower);Standalone+Markdown+TUI+Reader+(MarkiiDown);Kernel+%26+Windows+Low-Latency+Optimization;Real-time+Hardware+Monitoring+(CPU+%2F+GPU);Rust%2C+C%23+%26+Systems+Programming;Open+Source+Tools+%26+OS+Tweaks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=720&lines=Agentes+aut%C3%B4nomos+para+desenvolvimento;Ferramentas+standalone+para+Windows;Monitoramento+de+hardware+em+tempo+real;Performance+e+automa%C3%A7%C3%A3o+de+sistemas" alt="Áreas de atuação da SILICONFPS" />
   </p>
+
+  <sub>
+    <a href="#projetos-em-destaque">Destaques</a> ·
+    <a href="#ecossistema">Ecossistema</a> ·
+    <a href="#tecnologias">Tecnologias</a> ·
+    <a href="#contato">Contato</a>
+  </sub>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim | About Me
+## Sobre
 
-Sou desenvolvedor focado em **Inteligência Artificial Agêntica**, **Engenharia de Performance de Sistemas Operacionais** e **Monitoramento de Hardware em Tempo Real**. 
+Desenvolvo soluções nas interseções entre **Inteligência Artificial**, **engenharia de performance** e **software de sistemas**. O objetivo é direto: transformar tarefas complexas em ferramentas rápidas, transparentes e fáceis de operar.
 
-Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde harnesses para orquestração de modelos de linguagem de última geração até otimizações profundas no kernel do Windows e distribuições Linux.
-
-- 🌸 **IA & Protocolo MCP**: Criador do **SiliconFlower**, agente CLI/TUI autônomo com controle de raciocínio, multi-provedores (Gemini, Claude, MiMo) e ecossistema extensível de tools via MCP.
-- 📑 **Ferramentas CLI & TUI**: Criador do **MarkiiDown**, leitor de Markdown interativo, 100% standalone e offline com TUI pager e integração nativa ao Windows.
-- ⚡ **Performance & Latency**: Desenvolvimento de utilitários e scripts avançados para debloat, redução de latência DPC e desativação cirúrgica de mitigações de CPU.
-- 📊 **Monitoramento de Hardware**: Criação de painéis nativos e plugins leves em C#, C, JavaScript e Shell para Windows, GNOME, XFCE4 e LXDE.
-- 🦀 **Low-Level & Minimalismo**: Desenvolvimento de utilitários de alta velocidade e consumo mínimo de memória em Rust e C.
-- 🧰 **Manutenção Open Source**: Modernização e suporte a ferramentas essenciais para a comunidade (WoeUSB-remast, LittleRegistryCleaner).
+- **IA & automação:** agentes CLI/TUI, subagentes, memória persistente, worktrees e integrações via Model Context Protocol.
+- **Terminal & produtividade:** aplicações standalone, offline e com integração nativa ao Windows.
+- **Performance:** automações de pós-instalação, redução de overhead e ajustes de baixa latência.
+- **Hardware:** telemetria leve de CPU/GPU para Windows e ambientes Linux.
+- **Open source:** manutenção e modernização de utilitários para a comunidade.
 
 ---
 
-## 🌟 Projetos em Destaque | Featured Projects
+## Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌸 <a href="https://github.com/siliconfps/siliconflower">SiliconFlower AI</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Protocol-MCP-00ff41?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+      <h3 align="center">🌸 SiliconFlower</h3>
+      <p align="center">
+        <a href="https://github.com/siliconfps/siliconflower"><img src="https://img.shields.io/badge/v0.2.4-00ff88?style=flat-square&label=release&labelColor=161b22" alt="SiliconFlower v0.2.4" /></a>
+        <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square" alt="MCP" />
       </p>
       <p>
-        <strong>Harness autônomo de agentes de IA CLI/TUI</strong> para Windows e Linux. Suporta raciocínio controlável, 34+ ferramentas nativas, protocolo Model Context Protocol (MCP) e integração com modelos Gemini, Claude Code e MiMo.
+        Harness de agentes de IA de alta performance para desenvolvimento no Windows. Reúne <strong>34 ferramentas nativas</strong>, subagentes concorrentes, tarefas em background, memória persistente, Git worktrees, RepoMap, busca web, hooks e MCP.
       </p>
       <p>
-        🌐 <strong><a href="https://siliconfps.github.io/siliconflower.html#/1">Ver Demonstração / Docs</a></strong>
+        Compatível com <strong>OpenAI, Anthropic, OpenRouter, SiliconFlow</strong> e APIs equivalentes. Pode ser compilado como um único executável <code>.exe</code> via Bun.
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📑 <a href="https://github.com/siliconfps/markiidown">MarkiiDown</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TUI-Terminal_Pager-00ff41?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Platform-Windows_%7C_Linux-0078D6?style=flat-square"/>
-      </p>
-      <p>
-        <strong>Leitor de Markdown (.md) 100% Standalone e offline</strong> em TypeScript com Bun. TUI interativo no terminal (pager com busca, rolagem e sumário TOC), modo print, watch mode, exportação HTML e integração nativa ao Windows Explorer sem privilégios de administrador.
-      </p>
-      <p>
-        🌐 <strong><a href="https://github.com/siliconfps/markiidown">Ver Repositório / Docs</a></strong>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/siliconfps/otimizador-windows">Otimizador Windows</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Focus-Low%20Latency-ffb800?style=flat-square"/>
-      </p>
-      <p>
-        Script avançado de otimização para Windows 10 e 11. Remove bloatware, desativa telemetria invasiva, gerencia mitigações de CPU e ajusta parâmetros do sistema para máxima taxa de quadros e menor latência.
+      <p align="center">
+        <strong><a href="https://github.com/siliconfps/siliconflower">Código e documentação</a></strong> ·
+        <strong><a href="https://siliconfps.github.io/siliconflower.html#/1">Demonstração</a></strong>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/siliconfps/gpu-cpu-monitor-windows">GPU / CPU Monitor Windows</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/UI-Win10%2F11-blue?style=flat-square"/>
+      <h3 align="center">📑 MarkiiDown</h3>
+      <p align="center">
+        <a href="https://github.com/siliconfps/markiidown"><img src="https://img.shields.io/badge/v1.1.0-00ff88?style=flat-square&label=release&labelColor=161b22" alt="MarkiiDown v1.1.0" /></a>
+        <img src="https://img.shields.io/badge/Windows_x64-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows x64" />
+        <img src="https://img.shields.io/badge/Offline-161b22?style=flat-square&logo=shield&logoColor=00ff88" alt="Offline" />
+        <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
       </p>
       <p>
-        Painel leve de monitoramento de recursos em tempo real para Windows. Exibe métricas detalhadas de uso de CPU, GPU, clocks, temperaturas e memória com consumo insignificante de recursos.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦀 <a href="https://github.com/siliconfps/editor-seco-seco">Editor Seco-Seco</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CLI-Text%20Editor-00e5ff?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Type-Ultra--Light-orange?style=flat-square"/>
+        Leitor de Markdown <strong>standalone e 100% offline</strong>, com pager TUI, busca, sumário navegável, quebra responsiva de linhas, realce de código, modo watch e exportação HTML autocontida.
       </p>
       <p>
-        Editor de texto minimalista ("sequinho"), ultrarrápido e sem distrações escrito em Rust para terminal (CLI). Focado em simplicidade, inicialização instantânea e baixo uso de memória.
+        Instala no espaço do usuário, sem privilégios de administrador, e adiciona integração ao menu de contexto do Windows Explorer. O executável portátil não exige Bun ou Node.js.
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/siliconfps/check-cpu-mitigations">Check CPU Mitigations</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Security-Audit-red?style=flat-square"/>
-      </p>
-      <p>
-        Utilitário para análise e detecção de vulnerabilidades e mitigações ativas de processador no Windows (Spectre, Meltdown, MDS, etc.).
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📀 <a href="https://github.com/siliconfps/WoeUSB-remast">WoeUSB Remastered</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tool-Bootable_USB-00e5ff?style=flat-square"/>
-      </p>
-      <p>
-        Manutenção e atualizações ativas da ferramenta para criação de pendrives inicializáveis do Windows no Linux a partir de imagens ISO ou DVDs.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧹 <a href="https://github.com/siliconfps/LittleRegistryCleaner">Little Registry Cleaner</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Utility-Registry_Clean-blueviolet?style=flat-square"/>
-      </p>
-      <p>
-        Programa open-source desenvolvido em C# focado em limpeza, análise e otimização profunda do Registro do Microsoft Windows.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🐧 <a href="https://github.com/siliconfps?tab=repositories">Linux Monitoring & Tweaks Suite</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-      </p>
-      <p>
-        Extensões e utilitários nativos de monitoramento e performance para ambientes Linux:
-        <br/>
-        • <strong><a href="https://github.com/siliconfps/gnome-cpu-monitor">GNOME CPU</a></strong> & <strong><a href="https://github.com/siliconfps/gnome-gpu-monitor">GPU Monitor</a></strong>
-        &nbsp;|&nbsp;
-        • <strong><a href="https://github.com/siliconfps/xfce4-cpu-plugin">XFCE4 CPU</a></strong> & <strong><a href="https://github.com/siliconfps/xfce4-gpu-plugin">GPU Plugins</a></strong>
-        <br/>
-        • <strong><a href="https://github.com/siliconfps/lxpanel-cpu-gpu-monitor">LXPanel Resource Monitor</a></strong> | <strong><a href="https://github.com/siliconfps/ubuntu-cpufreq-perf">cpufreq-perf</a></strong> | <strong><a href="https://github.com/siliconfps/overclock-amd">AMD Overclock</a></strong> | <strong><a href="https://github.com/siliconfps/hardview">Hardview</a></strong>
+      <p align="center">
+        <strong><a href="https://github.com/siliconfps/markiidown">Código e documentação</a></strong>
       </p>
     </td>
   </tr>
@@ -178,98 +93,84 @@ Minha missão é construir ferramentas rápidas, enxutas e eficientes — desde 
 
 ---
 
-## 🛠️ Tecnologias & Habilidades | Tech Stack
+## Ecossistema
+
+| Área | Projeto | O que entrega | Stack principal |
+| :--- | :--- | :--- | :--- |
+| ⚡ Performance | [Otimizador Windows](https://github.com/siliconfps/otimizador-windows) | Automação de pós-instalação com 19 ajustes de desempenho e privacidade para Windows 10/11. | PowerShell |
+| 📊 Monitoramento | [GPU/CPU Monitor Windows](https://github.com/siliconfps/gpu-cpu-monitor-windows) | Telemetria de CPU/GPU em tempo real, bandeja do sistema e build single-file em .NET 9. | C# / .NET |
+| 🧹 Manutenção | [Little Registry Cleaner](https://github.com/siliconfps/LittleRegistryCleaner) | Limpeza do Registro, backups, restauração e gerenciamento de inicialização/desinstalação. | C# / .NET |
+| 🛡️ Diagnóstico | [Check CPU Mitigations](https://github.com/siliconfps/check-cpu-mitigations) | Auditoria das mitigações de Spectre, Meltdown, MDS e outras vulnerabilidades de CPU. | PowerShell |
+| 🦀 Terminal | [Editor Seco-Seco](https://github.com/siliconfps/editor-seco-seco) | Editor CLI minimalista com inicialização rápida e baixo consumo de memória. | Rust |
+| 📀 Linux | [WoeUSB Remastered](https://github.com/siliconfps/WoeUSB-remast) | Manutenção da ferramenta para criar mídia inicializável do Windows a partir do Linux. | Python / Shell |
+| 🐧 Hardware Linux | [Hardview](https://github.com/siliconfps/hardview) · [cpufreq-perf](https://github.com/siliconfps/ubuntu-cpufreq-perf) · [AMD Overclock](https://github.com/siliconfps/overclock-amd) | Informações do sistema, perfis de frequência e controle de power cap. | Shell |
+| 🖥️ Desktop Linux | [GNOME CPU](https://github.com/siliconfps/gnome-cpu-monitor) · [GNOME GPU](https://github.com/siliconfps/gnome-gpu-monitor) · [XFCE CPU](https://github.com/siliconfps/xfce4-cpu-plugin) · [XFCE GPU](https://github.com/siliconfps/xfce4-gpu-plugin) · [LXPanel](https://github.com/siliconfps/lxpanel-cpu-gpu-monitor) | Plugins e extensões leves para monitoramento no painel. | C / JavaScript / Shell |
 
 <div align="center">
-
-### 🤖 Inteligência Artificial & Orquestração
-<p>
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-00ff41?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Agentic_AI_Orchestration-00e5ff?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-</p>
-
-### 💻 Linguagens de Programação
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-
-### 🖥️ Sistemas Operacionais & Ambientes
-<p>
-  <img src="https://img.shields.io/badge/Windows_11_%2F_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
-  <img src="https://img.shields.io/badge/XFCE-005B9E?style=for-the-badge&logo=xfce&logoColor=white" alt="XFCE" />
-  <img src="https://img.shields.io/badge/LXDE-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="LXDE" />
-</p>
-
-### ⚙️ Runtimes, Ferramentas & Ecossistema
-<p>
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
+  <a href="https://github.com/siliconfps?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar_todos_os_reposit%C3%B3rios-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explorar todos os repositórios" />
+  </a>
 </div>
 
 ---
 
-## 📈 Estatísticas do GitHub | GitHub Stats
+## Tecnologias
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=siliconfps&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00e5ff&text_color=c9d1d9" alt="GitHub Stats" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconfps&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" width="370" />
-      </td>
-    </tr>
-  </table>
 
+  <p><strong>IA & orquestração</strong></p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siliconfps&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=ffb800&currStreakLabel=00e5ff" alt="GitHub Streak" />
+    <img src="https://img.shields.io/badge/Agentic_AI-00ff88?style=flat-square&logo=openai&logoColor=07110d" alt="Agentic AI" />
+    <img src="https://img.shields.io/badge/Model_Context_Protocol-8A2BE2?style=flat-square" alt="Model Context Protocol" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
   </p>
+
+  <p><strong>Linguagens & runtimes</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111" alt="C" />
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  </p>
+
+  <p><strong>Plataformas</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Windows_10_%2F_11-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows 10 e 11" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
+    <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="GNOME" />
+    <img src="https://img.shields.io/badge/XFCE-2284F2?style=flat-square&logo=xfce&logoColor=white" alt="XFCE" />
+  </p>
+
 </div>
 
 ---
 
-## 🌐 Conecte-se | Connect
+## Atividade no GitHub
 
 <div align="center">
-  <a href="https://siliconfps.github.io/">
-    <img src="https://img.shields.io/badge/Portal_Oficial-siliconfps.github.io-00ff41?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtube.com/@siliconfps">
-    <img src="https://img.shields.io/badge/YouTube-@siliconfps-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/siliconfps">
-    <img src="https://img.shields.io/badge/GitHub-siliconfps-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=siliconfps&show_icons=true&hide_border=true&bg_color=07110d&title_color=00ff88&icon_color=00d9ff&text_color=c9d1d9&ring_color=00ff88" alt="Estatísticas do GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:redesassessoria@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/siliconfps?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconfps&layout=compact&hide_border=true&bg_color=07110d&title_color=00ff88&text_color=c9d1d9" alt="Linguagens mais usadas" />
   </a>
 </div>
 
-<br/>
+---
+
+## Contato
 
 <div align="center">
-  <sub>⚡ Projetado e desenvolvido com foco em alta performance e eficiência por <a href="https://github.com/siliconfps">SILICONFPS</a>.</sub>
+  <p>
+    <a href="https://siliconfps.github.io/"><img src="https://img.shields.io/badge/siliconfps.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=07110d" alt="Portal oficial" /></a>
+    <a href="https://youtube.com/@siliconfps"><img src="https://img.shields.io/badge/@siliconfps-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="mailto:redesassessoria@gmail.com"><img src="https://img.shields.io/badge/Enviar_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  </p>
+
+  <sub>Brasil 🇧🇷 · Projetado com foco em alta performance, autonomia e eficiência.</sub>
 </div>
