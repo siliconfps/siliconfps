@@ -154,10 +154,10 @@ Desenvolvo soluções nas interseções entre **Inteligência Artificial**, **en
 
 <div align="center">
   <a href="https://github.com/siliconfps">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=siliconfps&show_icons=true&hide_border=true&bg_color=07110d&title_color=00ff88&icon_color=00d9ff&text_color=c9d1d9&ring_color=00ff88" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siliconfps&theme=github_dark" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/siliconfps?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconfps&layout=compact&hide_border=true&bg_color=07110d&title_color=00ff88&text_color=c9d1d9" alt="Linguagens mais usadas" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siliconfps&theme=github_dark" alt="Linguagens mais usadas por repositório" />
   </a>
 </div>
 
